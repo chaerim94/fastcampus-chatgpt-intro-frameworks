@@ -1,4 +1,5 @@
 import time
+import requests
 import gradio as gr
 
 API_BASE_URL = "http://localhost:8000/qna"
