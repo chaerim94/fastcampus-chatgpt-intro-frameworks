@@ -3,7 +3,7 @@ from typing import Dict
 
 from chains import (
     default_chain,
-    read_prompt_template,
+    read_prompt_template
 )
 from database import query_db
 from dotenv import load_dotenv
